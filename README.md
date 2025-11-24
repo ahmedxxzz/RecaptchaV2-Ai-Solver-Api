@@ -118,7 +118,3 @@ driver = webdriver.Chrome(options=options)
 **Issue: "skipping" printed repeatedly**
 *   **Cause**: The solver cannot identify the target object name from the text.
 *   **Fix**: Check the browser language. If it is English, the object might not be in the supported list (car, bus, bicycle, traffic light, etc.).
-
-## 📄 License
-
-[Your License Here]
