@@ -1,0 +1,6 @@
+selenium
+requests
+pillow
+numpy
+opencv-python
+ultralytics
